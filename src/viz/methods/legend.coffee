@@ -24,7 +24,7 @@ module.exports =
     accepted: [Boolean]
     value:    true
   order:
-    accepted: ["color", "id", "size", "text", Function]
+    accepted: ["color", "id", "size", "text"]
     sort:
       accepted: ["asc", "desc"]
       value:    "asc"
